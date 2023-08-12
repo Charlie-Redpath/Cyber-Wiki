@@ -4,3 +4,5 @@ To contribute to this Wiki:
 2. Make your changes (ensure to [sign your commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)),
 3. Submit a Pull Request to the `main` branch of this repo, and
 4. Wait for it to be approved.
+
+For help with markdown, see [GitBook/markdown](https://docs.gitbook.com/content-creation/editor/markdown) and [CommonMark](https://commonmark.org/help/).
